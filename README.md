@@ -1,5 +1,5 @@
 # mm_cowtip
-mm_cowtip
+mm_cowtip adds the fun of cow tipping! -STANDALONE SCRIPT-
 
 ORIGINAL CREATOR: MacabreRedm
 
