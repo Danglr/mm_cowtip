@@ -1,4 +1,6 @@
 # mm_cowtip
+### WORKS WITH RSG-VORE V2 ###
+
 mm_cowtip adds the fun of cow tipping! -STANDALONE SCRIPT-
 
 ORIGINAL CREATOR: MacabreRedm
